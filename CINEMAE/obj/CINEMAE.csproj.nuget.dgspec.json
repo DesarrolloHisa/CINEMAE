@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio\\Projects\\CINEMAE\\CINEMAE\\CINEMAE.csproj": {}
+    "C:\\Users\\Ander\\OneDrive\\Documentos\\GitHub\\CINEMAE\\CINEMAE\\CINEMAE.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio\\Projects\\CINEMAE\\CINEMAE\\CINEMAE.csproj": {
+    "C:\\Users\\Ander\\OneDrive\\Documentos\\GitHub\\CINEMAE\\CINEMAE\\CINEMAE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio\\Projects\\CINEMAE\\CINEMAE\\CINEMAE.csproj",
+        "projectUniqueName": "C:\\Users\\Ander\\OneDrive\\Documentos\\GitHub\\CINEMAE\\CINEMAE\\CINEMAE.csproj",
         "projectName": "CINEMAE",
-        "projectPath": "D:\\Visual Studio\\Projects\\CINEMAE\\CINEMAE\\CINEMAE.csproj",
-        "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio\\Projects\\CINEMAE\\CINEMAE\\obj\\",
+        "projectPath": "C:\\Users\\Ander\\OneDrive\\Documentos\\GitHub\\CINEMAE\\CINEMAE\\CINEMAE.csproj",
+        "packagesPath": "C:\\Users\\Ander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ander\\OneDrive\\Documentos\\GitHub\\CINEMAE\\CINEMAE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,15 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
