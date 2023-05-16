@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+    <title>Awesome Cinema</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#movies">Movies</a></li>
+                <li><a href="#food">Food</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h1>Welcome to Awesome Cinema</h1>
+        <p>Discover the latest blockbusters and enjoy delicious snacks at our cinema.</p>
+        <a href="#movies" class="btn">Explore Movies</a>
+    </section>
+
+    <section id="movies">
+        <h2>Now Showing</h2>
+        <div class="movie">
+            <img src="https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/5/6/0/0/40065-4-esl-CO/44c1afd60fb0-smb_cineco_2-poster_480x670.jpg" alt="Movie 1">
+            <h3>Movie 1</h3>
+            <p>Genre: Action</p>
+            <p>Duration: 2 hours 30 minutes</p>
+        </div>
+        <div class="movie">
+            <img src="https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/1/0/2/0/40201-3-esl-CO/0f65d15c7c34-480x670.jpg" alt="Movie 2">
+            <h3>Movie 2</h3>
+            <p>Genre: Comedy</p>
+            <p>Duration: 1 hour 45 minutes</p>
+        </div>
+        <div class="movie">
+            <img src="https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/3/8/5/1/41583-1-esl-CO/3d87a159f887-bdrs_pstr-dskp_480x670.png" alt="Movie 2">
+            <h3>Movie 2</h3>
+            <p>Genre: Comedy</p>
+            <p>Duration: 1 hour 45 minutes</p>
+        </div>
+        <div class="movie">
+            <img src="https://archivos-cms.cinecolombia.com/images/_aliases/poster_card/0/6/1/1/41160-4-esl-CO/1d042fd564d9-480x670.jpg" alt="Movie 2">
+            <h3>Movie 2</h3>
+            <p>Genre: Comedy</p>
+            <p>Duration: 1 hour 45 minutes</p>
+        </div>
+        <!-- Add more movie divs as needed -->
+    </section>
+
+    <section id="food">
+        <h2>Delicious Snacks</h2>
+        <p>Enjoy a variety of snacks and beverages during your movie experience.</p>
+        <a href="#food-menu" class="btn">View Food Menu</a>
+    </section>
+
+    <section id="food-menu">
+        <h3>Food Menu</h3>
+        <ul>
+            <li>Popcorn</li>
+            <li>Soda</li>
+            <li>Candy</li>
+            <li>Hot Dogs</li>
+            <!-- Add more food items as needed -->
+        </ul>
+        <a href="#order" class="btn">Place Order</a>
+    </section>
+
+    <section id="order">
+        <h3>Place Your Order</h3>
+        <p>To order food, please visit our concessions stand at the cinema.</p>
+        <p>Enjoy your movie and snacks!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Awesome Cinema. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
