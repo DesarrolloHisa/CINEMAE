@@ -38,5 +38,12 @@ nav ul[b-mkuvqs9pv8] {
 
 .movie[b-mkuvqs9pv8] {
     display: inline-block;
-    width: 200px;
-    margin: 10px;
+    width: 485px;
+    margin: 20px;
+    text-align: center;
+}
+
+    .movie img[b-mkuvqs9pv8] {
+        max-width: 100%;
+        height: auto;
+    }
