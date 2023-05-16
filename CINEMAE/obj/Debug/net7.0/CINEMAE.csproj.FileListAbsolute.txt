@@ -30,3 +30,35 @@ D:\Visual Studio\Projects\CINEMAE\CINEMAE\obj\Debug\net7.0\refint\CINEMAE.dll
 D:\Visual Studio\Projects\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.pdb
 D:\Visual Studio\Projects\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.genruntimeconfig.cache
 D:\Visual Studio\Projects\CINEMAE\CINEMAE\obj\Debug\net7.0\ref\CINEMAE.dll
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\appsettings.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.staticwebassets.runtime.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.exe
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.deps.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.runtimeconfig.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.dll
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\bin\Debug\net7.0\CINEMAE.pdb
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.csproj.AssemblyReference.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.AssemblyInfoInputs.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.AssemblyInfo.cs
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.RazorAssemblyInfo.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.RazorAssemblyInfo.cs
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets\msbuild.CINEMAE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets\msbuild.build.CINEMAE.props
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CINEMAE.props
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CINEMAE.props
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\scopedcss\Views\Home\Index.cshtml.rz.scp.css
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\scopedcss\bundle\CINEMAE.styles.css
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\scopedcss\projectbundle\CINEMAE.bundle.scp.css
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.dll
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\refint\CINEMAE.dll
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.pdb
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\CINEMAE.genruntimeconfig.cache
+C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\obj\Debug\net7.0\ref\CINEMAE.dll
