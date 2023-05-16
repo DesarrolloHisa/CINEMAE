@@ -9,37 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CINEMAE
 build_property.RootNamespace = CINEMAE
-build_property.ProjectDir = C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE\
+build_property.ProjectDir = C:\Users\psistemas\Documents\GitHub\CINEMAE\CINEMAE\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jeffr\Documents\GitHub\CINEMAE\CINEMAE
+build_property.MSBuildProjectDirectory = C:\Users\psistemas\Documents\GitHub\CINEMAE\CINEMAE
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/Home/Privacy.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/Error.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/_ViewImports.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/_ViewStart.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/Home/Index.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/CheckOut/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-rwfp6ndggu
+
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Home/Food.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-fynhg6xxwh
+
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-mkuvqs9pv8
 
-[C:/Users/jeffr/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/_Layout.cshtml]
+[C:/Users/psistemas/Documents/GitHub/CINEMAE/CINEMAE/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yufy1zcdw9
