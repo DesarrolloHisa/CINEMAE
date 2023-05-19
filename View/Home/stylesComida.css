@@ -1,0 +1,105 @@
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .column {
+        flex: 0 0 auto;
+    }
+}
+
+.food-card {
+    width: 100%;
+}
+
+.food-card-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .food-card-box img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+.title.is-6 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.eztext-field {
+    white-space: pre-line;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;   /*COLOR*/
+}
+
+
+body {
+  background-color: #f5f5f5;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.carousel-container {
+  width: 400px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.carousel-wrapper {
+  width: calc(100% * 4);
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  margin-left: 0;
+}
+
+.carousel-item {
+  flex: 0 0 25%;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+header {
+background-color: #333;
+padding: 10px;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+
+
+.carousel-item img {
+  max-width: 100%;
+}
+
+.carousel-item figcaption {
+  margin-top: 5px;
+}
+
+.carousel-controls {
+  text-align: center;
+  margin-top: 10px;
+}
